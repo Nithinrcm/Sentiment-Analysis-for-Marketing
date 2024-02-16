@@ -1,4 +1,4 @@
-# Sentiment Analysis Project README
+# Sentiment Analysis Project
 
 This README provides step-by-step instructions for running the code snippets in a Jupyter Notebook for the sentiment analysis project.
 
